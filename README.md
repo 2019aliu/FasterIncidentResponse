@@ -1,6 +1,6 @@
 # Faster Incident Response (Faster IR, FaIR)
 
-As the junior minions at [Fluency Security](https://www.fluencysecurity.com/ "Fluency Corporation's Homepage") (yes, the interns), we aim to improve the Fluency Security product while having fun and being goofy.
+As a junior minion at [Fluency Security](https://www.fluencysecurity.com/ "Fluency Corporation's Homepage") (yes, the interns), I aim to improve the Fluency Security product while having fun and being goofy.
 
 One feature we want to implement was an improved version of certsocietegenerale's [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR).
 
